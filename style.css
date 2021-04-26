@@ -1,0 +1,184 @@
+.navbar {
+  width: 100%;
+  background-color: #41519c;
+  height: 110px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  position: relative;
+  left: 150px;
+  top: 23px;
+  color: #fff;
+  font-size: 2.25em;
+}
+
+.email {
+  color: #fff;
+  position: relative;
+  left: 610px;
+}
+
+.password {
+  color: #fff;
+  position: relative;
+  left: 700px;
+}
+
+.ine {
+  position: relative;
+  left: 750px;
+}
+
+.inp {
+  position: relative;
+  left: 770px;
+}
+
+/* Css styling for login button */
+
+.myButton {
+  position: relative;
+  left: 780px;
+  box-shadow: 0px -1px 0px 2px #9fb4f2;
+  background: linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+  background-color: #7892c2;
+  border-radius: 10px;
+  border: 1px solid #4e6096;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 12px 7px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #283966;
+}
+.myButton:hover {
+  background: linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+  background-color: #476e9e;
+}
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.fpass {
+  text-decoration: none;
+  position: relative;
+  left: 950px;
+  font-size: 85%;
+  color: #9cb4d8;
+}
+
+.fpass:hover {
+  text-decoration: underline;
+}
+/* CSS styling for sign up  */
+.sign-up {
+  background-image: linear-gradient(#fdfdfe, #d6daea);
+  width: 100%;
+  height: 700px;
+}
+
+.connect {
+  font-size: 1.55em;
+  position: relative;
+  top: 50px;
+  left: 100px;
+  color: #0e385f;
+}
+
+.create {
+  position: relative;
+  left: 550px;
+  top: 40px;
+  font-size: 3em;
+}
+
+.quick {
+  position: relative;
+  left: 750px;
+  top: 40px;
+  font-size: 1.25em;
+}
+.fname {
+  position: relative;
+  left: 600px;
+  top: 100px;
+  padding: 7px;
+  margin: 1px;
+}
+
+.mobile {
+  padding: 7px;
+  position: relative;
+  left: 240px;
+  top: 150px;
+  width: 355px;
+}
+
+.pwd {
+  padding: 7px;
+  position: relative;
+  left: 752px;
+  top: 170px;
+  width: 355px;
+}
+
+.dob {
+  position: relative;
+  left: 750px;
+  top: 190px;
+  font-size: 1.32em;
+}
+
+.gen {
+  position: relative;
+  left: 750px;
+  top: 200px;
+}
+.gender {
+  font-size: 1.25em;
+}
+
+.terms {
+  position: relative;
+  left: 750px;
+  top: 200px;
+  font-size: 50%;
+}
+
+/* Sign Up button styling */
+.Button {
+  position: relative;
+  left: 750px;
+  top: 250px;
+  box-shadow: 0px 10px 14px -7px #3e7327;
+  background: linear-gradient(to bottom, #77b55a 5%, #72b352 100%);
+  background-color: #77b55a;
+  border-radius: 4px;
+  border: 1px solid #4b8f29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 12px 23px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #5b8a3c;
+}
+.Button:hover {
+  background: linear-gradient(to bottom, #72b352 5%, #77b55a 100%);
+  background-color: #72b352;
+}
+.Button:active {
+  position: relative;
+  top: 1px;
+}
